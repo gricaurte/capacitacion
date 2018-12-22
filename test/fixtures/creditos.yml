@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  client: one
+  producto: one
+  plazo: 1
+  monto: 9.99
+  periodicidad: 1
+  destino: MyText
+
+two:
+  client: two
+  producto: two
+  plazo: 1
+  monto: 9.99
+  periodicidad: 1
+  destino: MyText
